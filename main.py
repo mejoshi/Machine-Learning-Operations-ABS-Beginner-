@@ -141,5 +141,4 @@ history = model.fit_generator(
     validation_data = image_test,
         )
 
-model.summary()
 model.save('family.h5')
