@@ -1,7 +1,7 @@
 #!/bin/bash
 
-x=$(grep sklearn task3.py | wc -w)
-y=$(grep keras task3.py | wc -w)
+x=$(grep sklearn main.py | wc -w)
+y=$(grep keras main.py | wc -w)
 
 echo $x
 echo $y
