@@ -17,3 +17,4 @@ elif [ $y -ge 1 ];then
 else 
 	echo "Default will install"
 fi
+echo "okay"
