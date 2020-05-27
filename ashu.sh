@@ -18,3 +18,4 @@ else
 	echo "Default will install"
 fi
 echo "okay"
+echo 'oka'
