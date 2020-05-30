@@ -1,0 +1,1 @@
+sudo docker exec dml python3 main.py

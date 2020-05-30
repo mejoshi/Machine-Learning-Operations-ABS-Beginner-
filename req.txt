@@ -1,0 +1,8 @@
+pandas
+Pillow
+scikit-learn
+seaborn
+tensorflow
+numpy
+Keras
+
