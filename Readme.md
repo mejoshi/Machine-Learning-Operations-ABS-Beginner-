@@ -2,7 +2,7 @@
 
 MLOps, which means “Machine Learning Operations” is a development practice similar to DevOps, but built from the ground up for Machine Learning best practices. Just as DevOps looks to provide regular, shorter releases, so too does MLOps look to enhance every step of the ML development lifecycle.
 
-# ABout Task 3 
+# About Task 3 
 Whenever someone pushes a machine learning file to GitHub repo, it will start training. After successfully model trained, if its accuracy is less than 90% then it will try again with some more epochs and more CRP layers. Else it will send an email with accuracy.
 
 # MLOps Task 3
