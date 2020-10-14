@@ -2,10 +2,10 @@
 
 MLOps, which means “Machine Learning Operations” is a development practice similar to DevOps, but built from the ground up for Machine Learning best practices. Just as DevOps looks to provide regular, shorter releases, so too does MLOps look to enhance every step of the ML development lifecycle.
 
-# About Task 3 
+# About Task 
 Whenever someone pushes a machine learning file to GitHub repo, it will start training. After successfully model trained, if its accuracy is less than 90% then it will try again with some more epochs and more CRP layers. Else it will send an email with accuracy.
 
-# MLOps Task 3
+# MLOps Task 
 1. Create container image that’s has Python3 and Keras or numpy installed using dockerfile. Jenkins job should detect the code that it is code of ML or DL. When we launch this image, it should automatically starts train the model in the container.
 
 2. Create a job chain of job1, job2, job3 and job4 using build pipeline plugin in Jenkins. 
